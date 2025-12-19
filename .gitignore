@@ -123,6 +123,7 @@ reports/
 **/[Cc]ursor*.md
 .github/[Cc]laude*.md
 .github/[Cc]ursor*.md
+.github/instructions/**
 
 # Cursor editor rules files
 .cursorrules
